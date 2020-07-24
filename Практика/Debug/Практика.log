@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+c1xx : warning C4857: Режим C++/CLI не поддерживает версии C++ выше C++17; установка версии языка /std:c++17.
+C:\Users\samet\Desktop\STOP\Практика\Практика\MyForm.h(281,21): error C3861: UravDihtomii: идентификатор не найден
+C:\Users\samet\Desktop\STOP\Практика\Практика\MyForm.h(291,16): error C3861: exp: идентификатор не найден
+C:\Users\samet\Desktop\STOP\Практика\Практика\MyForm.h(299,1): error C2059: синтаксическая ошибка: }
+C:\Users\samet\Desktop\STOP\Практика\Практика\MyForm.h(299,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\samet\Desktop\Visual\VC\Tools\MSVC\14.26.28801\include\sal.h(2361,12): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\samet\Desktop\Visual\VC\Tools\MSVC\14.26.28801\include\sal.h(2361,12): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\samet\Desktop\STOP\Практика\Практика\MyForm.cpp(8,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
